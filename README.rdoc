@@ -12,8 +12,4 @@ https://www.youtube.com/watch?v=BI_VnnOLSKY
 
 * Database postgres
 
-* Deployment instructions
-
-* ...
-
-done
+* Deployment from http://railstutorial.ru/chapters/4_0/beginning#sec-deploying
