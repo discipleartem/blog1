@@ -37,8 +37,9 @@
     <div id="header">
       <% if current_page?(root_path) %>
         <p>All Posts</p>
-        <p class="post_button"></p>
+        <p class="post_button">
           <%= link_to "create a Post", new_post_path %>
+        </p>
       <% elsif current_page?(about_path) %>
         <p>About</p>
       <% else %>
