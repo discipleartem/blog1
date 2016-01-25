@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=BI_VnnOLSKY
 * Database postgres
 
 * Deployment from http://railstutorial.ru/chapters/4_0/beginning#sec-deploying
+
+- do rake assets:precompile for working styles
+
+app at production - http://polar-plateau-59178.herokuapp.com/
